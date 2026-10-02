@@ -57,4 +57,3 @@ Python version is the specification those pieces implement.
 ## Author
 
 Alejandro Fernández Urbano — Power Platform & AI automation · **Calidá S.A.S.** (Colombia).
-[LinkedIn](https://www.linkedin.com/in/alejandro-fernandez-urbano) · alejandrofernandezurbano@gmail.com
